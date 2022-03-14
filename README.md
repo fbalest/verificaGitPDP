@@ -16,6 +16,6 @@
 1. Creare un nuovo **branch** di lavoro ed effettuare le seguenti **modifiche** al file *.css* (in più commit):
     1. Modificare il colore di sfondo,
     1. Modificare l'allineamento del tag *H1*.
-1. Riportare sul main le modifiche effettuate..
+1. Riportare sul main le modifiche effettuate.
 1. Allineare il repository remoto su GitHub con le modifiche effettuate.
 1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash.**
