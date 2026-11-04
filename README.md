@@ -1,6 +1,6 @@
 # Verifica di laboratorio Git
 
-## Esercizio 1 (2pt)
+## Esercizio 1 (5pt)
 1. Creare un repository Git in locale.
 1. Effettuare le seguenti **modifiche** (in più commit):
     1. Aggiungere un nuovo file,
@@ -9,7 +9,7 @@
 1. Allineare il repository remoto su GitHub con le modifiche effettuate.
 1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash e il repository locale.**
 
-## Esercizio 2 (4 pt)
+## Esercizio 2 (5 pt)
 1. Creare una **copia locale** di questo repository .
 1. Creare un nuovo **branch** di lavoro ed effettuare le seguenti **modifiche** al file *.css* (in più commit):
     1. Modificare il colore di sfondo,
